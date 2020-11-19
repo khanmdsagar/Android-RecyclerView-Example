@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">My Ecommerce</string>
+
+    <string-array name="product_name">
+        <item>Red Bag</item>
+        <item>Leather Belt</item>
+        <item>Hoodie for Men</item>
+        <item>Jacket for Men</item>
+        <item>Couple Ring</item>
+        <item>Shoe</item>
+        <item>Sunglass</item>
+
+        <item>Red Bag</item>
+        <item>Leather Belt</item>
+        <item>Hoodie for Men</item>
+        <item>Jacket for Men</item>
+        <item>Couple Ring</item>
+        <item>Shoe</item>
+        <item>Sunglass</item>
+
+        <item>Red Bag</item>
+        <item>Leather Belt</item>
+        <item>Hoodie for Men</item>
+        <item>Jacket for Men</item>
+        <item>Couple Ring</item>
+        <item>Shoe</item>
+        <item>Sunglass</item>
+    </string-array>
+
+    <string-array name="product_price">
+        <item>50$</item>
+        <item>60$</item>
+        <item>70$</item>
+        <item>80$</item>
+        <item>50$</item>
+        <item>60$</item>
+        <item>70$</item>
+
+        <item>50$</item>
+        <item>60$</item>
+        <item>70$</item>
+        <item>80$</item>
+        <item>50$</item>
+        <item>60$</item>
+        <item>70$</item>
+
+        <item>50$</item>
+        <item>60$</item>
+        <item>70$</item>
+        <item>80$</item>
+        <item>50$</item>
+        <item>60$</item>
+        <item>70$</item>
+    </string-array>
+
+</resources>
